@@ -1,4 +1,4 @@
-package LanguageFundamentals.JavaIdentifiers;
+package LanguageFundamentals.Reservedwords;
 //Reserved words:In java some identifiers are reserved to associate some functionality or meaning such
 //type of reserved identifiers are called reserved words.
 

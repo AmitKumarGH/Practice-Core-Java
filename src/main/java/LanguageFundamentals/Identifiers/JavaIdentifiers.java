@@ -1,4 +1,4 @@
-package LanguageFundamentals.JavaIdentifiers;
+package LanguageFundamentals.Identifiers;
 //Identifier: A name in java program is called identifier.
 //It may be class name, method name, variable name and label name.
 //Which can be used for identification purpose
