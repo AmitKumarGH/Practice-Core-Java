@@ -1,4 +1,4 @@
-package LanguageFundamentals.JavaIdentifiers;
+package LanguageFundamentals.Identifiers;
 
 //Rule 1: The only allowed characters in java identifiers are:
 //        1) a to z
